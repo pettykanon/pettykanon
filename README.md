@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pettykanon&label=Profile%20views&color=0e75b6&style=flat" alt="pettykanon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pettykanon" alt="pettykanon" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pettykanon&theme=dracula&hide_border=true" alt="pettykanon" /></a> </p>
 
 - 📫 How to reach me **cosimoemanueledesantis@hotmail.com**
 
