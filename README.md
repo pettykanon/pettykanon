@@ -21,6 +21,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pettykanon&" alt="pettykanon" /></p>
 
+<p><img align="center" src="https://imagelfm.art/image/v2/85067F62" alt="pettykanon" /></p>
+
 <!--
 **pettykanon/pettykanon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
