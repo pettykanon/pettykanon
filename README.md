@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emanuele Desantis</h1>
 <h3 align="center">a computer engineering student at the Politecnico di Torino</h3>
 
-
-<p align="center"> <img src="https://github.com/pettykanon/pettykanon/assets/56477750/83c104f6-1bd9-4df7-902c-f5505f03a815" alt="pettykanon" width="40%" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pettykanon&label=Profile%20views&color=0e75b6&style=flat" alt="pettykanon" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pettykanon&theme=dracula&hide_border=true" alt="pettykanon" /></a> </p>
 
